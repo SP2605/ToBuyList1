@@ -11,3 +11,12 @@ as and when the user realizes that the thing is to be bought.
 - Can delete one or all items at once.
 - Right/Left swipe deletes item from list.
 - Delete All from menu can be used to delete all items.
+
+![Screenshot_20220925_191335](https://user-images.githubusercontent.com/108350180/192146911-ed47c7e9-ab50-4f65-a1fc-952292711ae4.png)
+![Screenshot_20220925_191406](https://user-images.githubusercontent.com/108350180/192146921-29353dd9-5f23-417f-b955-d2debcc6844f.png)
+![Screenshot_20220925_191512](https://user-images.githubusercontent.com/108350180/192146924-99f0f461-dcc4-4018-9462-65904591354d.png)
+
+![Screenshot_20220925_191529](https://user-images.githubusercontent.com/108350180/192146946-919aa5d3-8794-45ba-ba4d-0c052b1250df.png)
+![Screenshot_20220925_191538](https://user-images.githubusercontent.com/108350180/192146948-44b19146-7a73-42dd-a9d5-b8c395f8d391.png)
+![Screenshot_20220925_191543](https://user-images.githubusercontent.com/108350180/192146953-38334a38-![Screenshot_20220925_191547](https://user-images.githubusercontent.com/108350180/192146955-c92f1212-b7ef-4f6b-8464-1aa20314f597.png)
+fb6a-4861-9f3f-3eaf1d8ceacf.png)
